@@ -15,8 +15,8 @@
   /* --popup-bg-color: #3d3d3dc9; */
 }
 body {
-  overflow-x: hidden;
-  overflow-y: auto;
+  /* overflow-x: hidden; */
+  /* overflow-y: auto; */
   scroll-behavior: smooth;
 }
 
@@ -86,7 +86,7 @@ h3 {
 p,
 a,
 li {
-  @apply text-lg font-bold leading-relaxed tracking-wide;
+  @apply text-lg font-medium leading-relaxed tracking-wide;
 }
 
 span {
