@@ -76,7 +76,7 @@ h1 {
 }
 
 h2 {
-  @apply text-2xl font-bold text-[#323232] mb-8; /* 1.5rem */
+  @apply text-2xl font-medium text-[#323232] ; /* 1.5rem */
 }
 
 h3 {
@@ -94,7 +94,7 @@ span {
 }
 
 p {
-  color: #3c3c3c;
+  color: #313440;
 }
 /* Ensure links are clickable */
 a {
