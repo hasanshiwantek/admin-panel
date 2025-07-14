@@ -5,7 +5,7 @@ const page:React.FC = () => {
     <>
     <div>
 <h1 className='text-2xl text-blue-500'>
-    Welcome To Admin Panel
+    Welcome To Admin Panel Updated
 </h1>
     </div>
     </>
